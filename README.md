@@ -1,6 +1,6 @@
 # prueba
-| SECCIÓN                             | DESCRIPCIÓN                                                  |
+| NOMBRE:                             | DESCRIPCIÓN                                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
-| SECCIÓN                             | DESCRIPCIÓN                                                  |
-| SECCIÓN                             | DESCRIPCIÓN                                                  |
+| AUTOR:                              | Arturo Garcia                                                  |
+| FECHA:                              | 17/05/2020                                                  |
 
