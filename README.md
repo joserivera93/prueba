@@ -1,3 +1,3 @@
 # prueba
-| SECCIÓN                             | DESCRIPCIÓN                                                  |
+| SECCIÓN                             | DESCRIPCIÓN  gjkgkjgkjgkjkjkjkjkjkljkljkjlkjkjkljkj                                                |
 | ----------------------------------- | ------------------------------------------------------------ |
